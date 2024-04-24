@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="33" alt="github"/>
   </a>
   <img width="5"/>
-  <a href="https://www.linkedin.com/in/vitor-moratz/" style="text-decoration: none">
+  <a href="https://www.linkedin.com/in/vitor-moratz-b24629152/" style="text-decoration: none">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="33" alt="linkedin"/>
   </a>
   <img width="5"/>
