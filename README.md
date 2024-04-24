@@ -86,9 +86,7 @@
   <img src="./images/me2.gif" width="125" height="172">
 </div>
 <br>
-
-![snake gif](https://github.com/vitor-moratz/vitor-moratz/blob/output/github-contribution-grid-snake.svg)
-
+    
 <br><br>
 
 <details align="left">
