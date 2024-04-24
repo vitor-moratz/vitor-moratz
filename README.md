@@ -9,23 +9,23 @@
 <h3 align="left">Vamos nos conectar!</h3>
 
 <div align="left">
-  <a href="https://github.com/vitor-moratz" style="text-decoration: none">
+  <a href="https://github.com/vitor-moratz" style="text-decoration: none !important">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="33" alt="github"/>
   </a>
   <img width="5"/>
-  <a href="https://www.linkedin.com/in/vitor-moratz-b24629152/" style="text-decoration: none">
+  <a href="https://www.linkedin.com/in/vitor-moratz-b24629152/" style="text-decoration: none !important">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="33" alt="linkedin"/>
   </a>
   <img width="5"/>
-  <a href="mailto:vitor.morato80@gmail.com" style="text-decoration: none">
+  <a href="mailto:vitor.morato80@gmail.com" style="text-decoration: none !important">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="33" alt="gmail"/>
   </a>
   <img width="5"/>
-  <a href="https://api.whatsapp.com/send?phone=5541998595330&text=Welcome%20Moratz%20Programming!" style="text-decoration: none">
+  <a href="https://api.whatsapp.com/send?phone=5541998595330&text=Welcome%20Moratz%20Programming!" style="text-decoration: none !important">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="33" alt="whatsapp"/>
   </a>
   <img width="5"/>
-  <a href="https://www.instagram.com/vitor.morato_smile/" style="text-decoration: none">
+  <a href="https://www.instagram.com/vitor.morato_smile/" style="text-decoration: none !important">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="33" alt="instagram"/>
   </a>
   <img width="5"/>
@@ -34,43 +34,43 @@
 <h3 align="left">Minhas habilidades</h3>
 
 <div style="display: inline_block"><br>
-  <a href="https://playwright.dev/" style="text-decoration: none">
+  <a href="https://playwright.dev/" style="text-decoration: none !important">
     <img src="./images/play.png" height="55" alt="playwright"/>
   </a>
   <img width="5"/>
-  <a href="https://robotframework.org/" style="text-decoration: none">
+  <a href="https://robotframework.org/" style="text-decoration: none !important">
     <img src="./images/robot.png" height="55" alt="robot"/>
   </a>
   <img width="5"/>
-  <a href="https://k6.io/" style="text-decoration: none">
+  <a href="https://k6.io/" style="text-decoration: none !important">
     <img src="./images/k6.png" height="55" alt="k6"/>
   </a>
   <img width="5"/>
-  <a href="https://www.cypress.io/" style="text-decoration: none">
+  <a href="https://www.cypress.io/" style="text-decoration: none !important">
     <img src="./images/cy.png" height="55" alt="cy"/>
   </a>
   <img width="5"/>
-  <a href="https://cucumber.io/docs/bdd/" style="text-decoration: none">
+  <a href="https://cucumber.io/docs/bdd/" style="text-decoration: none !important">
     <img src="./images/tecnicabdd.png" height="55" alt="bdd"/>
   </a>
   <img width="5"/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none !important">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"/>
   </a>
   <img width="5"/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none !important">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo"/>
   </a>
   <img width="5"/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none !important">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="55" alt="javascript logo"/>
   </a>
   <img width="5"/>
-  <a href="https://reactjs.org/" style="text-decoration: none">
+  <a href="https://reactjs.org/" style="text-decoration: none !important">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="react logo"/>
   </a>
   <img width="5"/>
-  <a href="https://www.python.org/" style="text-decoration: none">
+  <a href="https://www.python.org/" style="text-decoration: none !important">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"/>
   </a>
   <img width="5"/>
@@ -79,7 +79,7 @@
 <h3 align="left">GitHub Status</h3>
 
 <div>
-  <a href="https://github.com/vitor-moratz" style="text-decoration: none">
+  <a href="https://github.com/vitor-moratz" style="text-decoration: none !important">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-moratz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-moratz&layout=compact&langs_count=16&theme=dark"/>
   <img width="15"/>
