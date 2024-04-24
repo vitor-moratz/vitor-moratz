@@ -87,11 +87,7 @@
 </div>
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitor-moratz/vitor-moratz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitor-moratz/vitor-moratz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitor-moratz/vitor-moratz/output/github-contribution-grid-snake.svg">
-</picture>
+![snake gif](https://github.com/vitor-moratz/vitor-moratz/blob/output/github-contribution-grid-snake.gif)
 <br><br>
 
 <details align="left">
