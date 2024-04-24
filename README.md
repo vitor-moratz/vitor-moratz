@@ -83,7 +83,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-moratz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-moratz&layout=compact&langs_count=16&theme=dark"/>
   <img width="15"/>
-  <img src="https://i.picasion.com/pic92/a6a1d77d36a614f9b008d322f368322f.gif" width="125" height="172">
+  <img src="./images/me2.gif" width="125" height="172">
 </div>
 <br>
 
